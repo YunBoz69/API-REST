@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.quest.etna.QuestSpringBootApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.472 s - in com.quest.etna.QuestSpringBootApplicationTests

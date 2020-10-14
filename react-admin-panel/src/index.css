@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: #c1bcbc !important;
+}
+
+.container {
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.user-summary .full-name {
+    margin-top: 43%;
+}
+
+.app-header {
+  box-shadow: 0px -20px 10px #f0f1f2 !important;
+  background-color: #3f51b5 !important;
+}
+
+.app-menu {
+  background-color: #3f51b5 !important;
+}
+
+.app-title a {
+  color: white;
+}
+
+.ant-menu-horizontal > .ant-menu-item, .ant-menu-horizontal > .ant-menu-submenu {
+  color: white !important;
+}
+
+.ant-menu-horizontal > .ant-menu-item > a, .ant-menu-horizontal > .ant-menu-submenu > a {
+  text-decoration: none !important;
+  color: white !important;
+}
+
+.ant-layout {
+  background: #c1bcbc !important;
+}
+
+@media (max-width: 768px) {
+  h1 {
+    font-size: 1.7em;
+  }
+}
+
+a:hover {
+  color: white !important;
+}
+
+a {
+  color: #3f51b5;
+}
+
+@media (max-width: 768px) {
+  .app-title a {
+    font-size: 20px;
+    color: white;
+  }
+}
